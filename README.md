@@ -5,7 +5,7 @@ Comsci
 This program asks the user to enter a number and determines whether the number is even or odd.
 
 # How It Works
-The program:
+The program...
 1. Gets a number from the user.
 2. Uses the modulo operator `%` to check if the number is divisible by 2.
 3. Prints `Even` if the remainder is 0.
