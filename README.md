@@ -1,5 +1,5 @@
 # CS2_PRACTICE_EXERCISE_EVEN_OR_ODD
-Comsci
+A Computer Science practice activity!
 
 # Description
 This program asks the user to enter a number and determines whether the number is even or odd.
